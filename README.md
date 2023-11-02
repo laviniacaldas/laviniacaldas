@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/laviniacaldas/laviniacaldas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/laviniacaldas/output/snake.svg" alt="Snake animation" />
 
 ###
