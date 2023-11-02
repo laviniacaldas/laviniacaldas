@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=laviniacaldas&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="100" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=laviniacaldas&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniacaldas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
@@ -64,8 +64,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/laviniacaldas/laviniacaldas/output/snake.svg" alt="Snake animation" />
 
