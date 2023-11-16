@@ -7,12 +7,7 @@
 
 ###
 
-I am a proactive, curious and creative person. I seek to learn continuously and I like to work in a dynamic and collaborative team. I have recently graduated in Electronic Engineering at UFS. My current goal is to get a junior position in an environment with diverse and unique people, in which I will be able to constantly learn, share knowledge to deliver a good result with performance.
-
-During my graduation, I focused not only on developing technical skills, but I also participated in extension activities, such as organizing events and competitions that required me to work as a team, proactively and dynamically. My last experience was an internship at a Brazilian multinational, in which my function was conducting an internal process improvement project that led to a reduction in the number of incidents through the creation of good practices and management.
-
-My experiences with the C/C++ programming language began through the Brazilian IT competition, in which I won 3rd place and a university course focused on imperative programming. During my undergraduate studies, I participated in extension activities that allowed me to deepen my knowledge of this language, I took courses that required this skill and I also developed personal projects.
-
+I am a proactive, curious and creative person who recently graduated an Electronic Engineering with a strong desire for continuous learning and collaboration. Now I am seeking a junior position in a dynamic and diverse team environment, with a focus on sharing knowledge to deliver high-performance results. During graduation, I participated in extension activities, including organizing events and competitions, showcasing teamwork and proactive problem-solving skills. My internship at a Brazilian multinational involved leading an internal process improvement project, resulting in a reduction of incidents through the implementation of best practices. My proficiency in C/C++ programming began with a 3rd place win in a Brazilian IT competition, followed by dedicated coursework and personal projects during my undergraduate years.
 
 
 ## Extra activities
